@@ -3,7 +3,7 @@ name = "SigmaOS-fprintd"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "fprintd component"
+description = "SigmaOS SigmaOS-fprintd component"
 upstream = []
 
 [contract]
